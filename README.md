@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blueberry)
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitaa2209&show_icons=true&theme=blueberry)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitaa2209&layout=compact&theme=blueberry)
 
 ---
 
