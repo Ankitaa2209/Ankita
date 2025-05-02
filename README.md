@@ -2,15 +2,12 @@
 
 <img src="banner.png" alt="Ankita's GitHub Banner" style="width:100%; border-radius: 12px;"/>
 
-# 👋 Hi, I'm Ankita!
+<h1 align="center">Hi 👋, I'm Ankita</h1>
+<h3 align="center">💻 Python Developer | 🧘‍♀️ Wellness Enthusiast | 🎯 Always Learning</h3>
 
-🎯 *Python Developer | Data Science Enthusiast | Lifelong Learner*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Learning+and+Building+Every+Day" alt="Typing SVG" />
 
----
-
-## 💡 About Me
-
-I'm a passionate developer focused on turning data into insights and building smart, scalable applications. I enjoy writing clean code, learning new tools, and creating things that matter.
 
 ---
 
