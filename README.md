@@ -51,8 +51,8 @@ Check out some of my work:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📬 Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/ankita-pharande22)
+- 📬 Email: ankitapharande12@gmail.com
 
 ---
 
